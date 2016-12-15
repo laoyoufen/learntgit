@@ -9,3 +9,6 @@ console.log('this is demo');
 //console.log('hah')
 console.log(111);
 
+console.log('12121');
+console.log(5555555);
+console.log(12121200000);
