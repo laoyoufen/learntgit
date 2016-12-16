@@ -5,7 +5,7 @@ var b = 32;
 
 
 
-console.log('this is demo');
+console.log('this is a')
 //console.log('hah')
 console.log(111);
 
