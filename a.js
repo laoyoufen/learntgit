@@ -1,5 +1,5 @@
 
-console.log('this is master')
+console.log('this is master');
 
 
 
@@ -9,7 +9,7 @@ console.log('this is dev a');
 
 
 
-console.log('this is a')
+console.log('this is a');
 //console.log('hah')
 console.log(111);
 
